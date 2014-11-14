@@ -130,7 +130,7 @@ msgstr ""
 #: forms.py:430 forms.py:1027 models/widgets.py:27
 #: templates/widgets/edit_post.html:32 templates/widgets/meta_nav.html:6
 msgid "tags"
-msgstr "Značke"
+msgstr "značke"
 
 #: forms.py:432
 #, python-format
@@ -2605,7 +2605,7 @@ msgstr ""
 
 #: conf/words.py:22 conf/words.py:23 templates/ask.html:4
 msgid "Ask Your Question"
-msgstr ""
+msgstr "Postavi vprašanje"
 
 #: conf/words.py:24 conf/words.py:43 conf/words.py:53 conf/words.py:63
 #: conf/words.py:127
@@ -2614,7 +2614,7 @@ msgstr ""
 
 #: conf/words.py:32 conf/words.py:33 conf/words.py:485 conf/words.py:486
 msgid "Please enter your question"
-msgstr ""
+msgstr "Prosim vpišite vaše vprašanje"
 
 #: conf/words.py:41 conf/words.py:42
 msgid "Ask the Group"
@@ -2868,7 +2868,7 @@ msgstr ""
 
 #: conf/words.py:530 conf/words.py:531
 msgid "Please feel free to ask your question!"
-msgstr ""
+msgstr "Postavite svoje vprašanje!"
 
 #: conf/words.py:539 conf/words.py:540
 msgid "swap with question"
@@ -3040,7 +3040,7 @@ msgstr ""
 
 #: conf/words.py:909 conf/words.py:910
 msgid "UNANSWERED"
-msgstr ""
+msgstr "NEODGOVORJENA"
 
 #: conf/words.py:918 conf/words.py:919
 msgid "Edit Answer"
@@ -7251,11 +7251,11 @@ msgstr ""
 
 #: templates/widgets/footer.html:40 templates/widgets/user_navigation.html:27
 msgid "help"
-msgstr ""
+msgstr "pomoč"
 
 #: templates/widgets/footer.html:42
 msgid "privacy policy"
-msgstr "Politika zasebnosti"
+msgstr "politika zasebnosti"
 
 #: templates/widgets/footer.html:51
 msgid "give feedback"
@@ -7408,18 +7408,18 @@ msgstr[3] ""
 #: templates/widgets/question_summary.html:41
 msgid "vote"
 msgid_plural "votes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "glas"
+msgstr[1] "glasa"
+msgstr[2] "glasovi"
+msgstr[3] "glasov"
 
 #: templates/widgets/scope_nav.html:17
 msgid "ALL"
-msgstr ""
+msgstr "VSA"
 
 #: templates/widgets/scope_nav.html:27
 msgid "FOLLOWED"
-msgstr ""
+msgstr "SLEDENA"
 
 #: templates/widgets/tag_selector.html:4
 msgid "Interesting tags"
@@ -7470,7 +7470,7 @@ msgstr ""
 
 #: templates/widgets/user_navigation.html:21
 msgid "Hi there! Please sign in"
-msgstr ""
+msgstr "Živjo! Prijavi se tukaj"
 
 #: templates/widgets/user_navigation.html:24
 msgid "settings"
@@ -7805,10 +7805,10 @@ msgstr[3] ""
 #, python-format
 msgid "%(q_num)s question"
 msgid_plural "%(q_num)s questions"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%(q_num)s vprašanje"
+msgstr[1] "%(q_num)s vprašanji"
+msgstr[2] "%(q_num)s vprašanja"
+msgstr[3] "%(q_num)s vprašanja"
 
 #: views/readers.py:279
 #, python-format
