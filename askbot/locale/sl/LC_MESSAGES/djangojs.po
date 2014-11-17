@@ -69,7 +69,7 @@ msgstr ""
 
 #: media/jquery-openid/jquery.openid.js:343
 msgid "Create a password-protected account"
-msgstr ""
+msgstr "Nimate računa? Kliknite tukaj, da ga ustvarite."
 
 #: media/js/group_messaging.js:102 media/js/group_messaging.js.c:293
 msgid "required"
@@ -86,7 +86,7 @@ msgstr ""
 #: media/js/group_messaging.js:164 media/js/post.js:1941
 #: media/js/post.js.c:3216 media/js/post.js.c:4779 media/js/user.js:846
 msgid "cancel"
-msgstr ""
+msgstr "Prekliči"
 
 #: media/js/group_messaging.js:227
 msgid "Reply"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: media/js/post.js:1797
 msgid "add comment"
-msgstr ""
+msgstr "Dodaj komentar"
 
 #: media/js/post.js:1803
 msgid "save comment"
@@ -293,17 +293,17 @@ msgstr ""
 #: media/js/post.js:1843
 #, c-format
 msgid "enter at least %s characters"
-msgstr ""
+msgstr "vnesite vsaj %s znakov"
 
 #: media/js/post.js:1845
 #, c-format
 msgid "enter at least %s more characters"
-msgstr ""
+msgstr "vnesite še vsaj % znakov"
 
 #: media/js/post.js:1855
 #, c-format
 msgid "%s characters left"
-msgstr ""
+msgstr "%s znakov na voljo"
 
 #: media/js/post.js:1955
 msgid "minor edit (don't send alerts)"
@@ -315,11 +315,11 @@ msgstr ""
 
 #: media/js/post.js:2022 media/js/utils.js:3904 media/js/utils.js.c:4059
 msgid "just now"
-msgstr ""
+msgstr "pravkar"
 
 #: media/js/post.js:2088
 msgid "delete this comment"
-msgstr ""
+msgstr "izbrišite ta komentar"
 
 #: media/js/post.js:2403
 msgid "confirm delete comment"
@@ -377,7 +377,7 @@ msgstr ""
 
 #: media/js/post.js:4069 media/js/utils.js:1371
 msgid "edit"
-msgstr ""
+msgstr "uredi"
 
 #: media/js/post.js:4156
 msgid "category name cannot be empty"
@@ -393,7 +393,7 @@ msgstr ""
 
 #: media/js/post.js:4775
 msgid "save tags"
-msgstr ""
+msgstr "Shrani"
 
 #: media/js/post.js:4891
 msgid "Group name:"
@@ -481,7 +481,7 @@ msgstr ""
 
 #: media/js/utils.js:167
 msgid "click to close"
-msgstr ""
+msgstr "zapri obvestilo"
 
 #: media/js/utils.js:670
 #, c-format
@@ -490,11 +490,11 @@ msgstr ""
 
 #: media/js/utils.js:1370
 msgid "click to edit this comment"
-msgstr ""
+msgstr "uredite ta komentar"
 
 #: media/js/utils.js:1401
 msgid "convert to answer"
-msgstr ""
+msgstr "pretvori v odgovor"
 
 #: media/js/utils.js:1454
 msgid "Ok"
