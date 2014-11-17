@@ -14,7 +14,7 @@
                         />
                 </a>
                 {% endif %}
-                {{settings.APP_COPYRIGHT}} {% trans 
+                {{settings.APP_COPYRIGHT}} <br>{% trans
                     license_title=settings.LICENSE_TITLE,
                     license_url=settings.LICENSE_URL
                 %}Content on this site is licensed under a <a href="{{license_url}}">{{license_title}}</a> license.{% endtrans %}
@@ -30,11 +30,11 @@
                     alt="{{settings.LICENSE_ACRONYM}}"
                 />
                 {% endif %}
-                {{settings.APP_COPYRIGHT}} {% trans license=settings.LICENSE_TITLE %}Content on this site is licensed under a {{license}}{% endtrans %}
+                {{settings.APP_COPYRIGHT}} <br> {% trans license=settings.LICENSE_TITLE %}Content on this site is licensed under a {{license}}{% endtrans %}
             </div>
             {% endif %}
         {% endif %}
-        <div class="footer-links" >
+        <!--div class="footer-links" >
             <a href="{% url about %}">{% trans %}about{% endtrans %}</a><span class="link-separator"> |</span>
             <a href="{% url faq %}">{% trans %}faq{% endtrans %}</a><span class="link-separator"> |</span>
             <a href="{% url help %}" title="{% trans %}help{% endtrans %}">{% trans %}help{% endtrans %}</a>
@@ -56,7 +56,7 @@
             <a href="http://askbot.com" target="_blank">
                 Powered by Askbot version {{settings.ASKBOT_VERSION}}
             </a>
-        </div>
+        </div-->
         <div class="clean"></div>
     </div>
 </div>
